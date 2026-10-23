@@ -1,0 +1,5 @@
+{
+  "version": "v22",
+  "firmware_url": "https://raw.githubusercontent.com/luideduplat-ship-it/duplat-firmware/main/firmware.bin",
+  "notes": "Versao estavel atual do firmware DUPLAT."
+}
